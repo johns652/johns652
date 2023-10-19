@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johns652
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning on coding using java,ahtml,javascript and php.
+- 🌱 I’m currently learning on coding using java,html,javascript and php.
 - 💞️ I’m looking forward to nurture myself to a software developer
 - 📫 you can reach out to me through my email address nyagawahome652@gmail.com
 
